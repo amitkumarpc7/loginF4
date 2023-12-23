@@ -6,7 +6,6 @@
   align-items: center;
   text-align: center;
   margin: auto;
-  border: 5px solid red;
   height: 90vh;
 
 }
@@ -17,7 +16,7 @@
   margin: 400px;
   padding: 20px;
   padding-bottom: 50px;
-  border:2px solid green;
+  /* border:2px solid green; */
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   font-size: 20px;
